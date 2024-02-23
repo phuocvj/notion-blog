@@ -10,8 +10,8 @@ import '@/styles/paginate.css';
 
 export const metadata = {
   title: {
-    default: 'Jihoo Kim',
-    template: '%s | Jihoo Kim',
+    default: 'Bút Chì Gỗ',
+    template: '%s | Bút Chì Gỗ',
   },
 };
 

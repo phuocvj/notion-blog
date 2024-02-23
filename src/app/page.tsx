@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Welcome | Jihoo Kim',
+  title: 'Welcome | Bút Chì Gỗ',
 };
 
 export default function HomePage() {

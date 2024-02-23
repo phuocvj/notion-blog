@@ -44,5 +44,8 @@
     "tailwindcss": "3.3",
     "tsx": "^3.12.7",
     "typescript": "5.0.2"
+  },
+  "resolutions": {
+    "@types/react": "17.0.37"
   }
 }
